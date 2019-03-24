@@ -1,0 +1,39 @@
+table{
+    margin: auto;
+    margin-top: 5%
+}
+
+td{
+    /* border: 5px solid #9170a5; */
+    width: 150px;
+    height: 150px;
+    background-color: #9170a5;
+    color: #63079b;
+    /* padding: 5px; */
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: auto;
+    margin-top: auto
+}
+
+td:hover{
+    background-color: #63079b;
+    color: #9170a5;
+}
+
+
+body{
+    background-color: #ffa663
+}
+
+h1{
+    color: #63079b;
+    text-align: center;
+}
+
+.heading{
+    background-color: #9170a5;
+    padding: 30px;
+    font-size: 30px;
+}
